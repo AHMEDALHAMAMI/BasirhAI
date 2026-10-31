@@ -1,6 +1,6 @@
-# RafeeqAI 🩺🤖
+# BasirhAI 🩺🤖
 
-**RafeeqAI** is an AI-powered health management backend built with **Java Spring Boot**.  
+**BasirhAI** is an AI-powered health management backend built with **Java Spring Boot**.  
 The system collects user health information and vital-sign measurements, analyzes health trends and potential risks, provides evidence-based health insights, and uses **Anthropic Claude Haiku** to generate personalized nutrition and exercise plans.
 
 
@@ -392,8 +392,8 @@ anthropic.api.model=claude-haiku-4-5-20251001
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/AHMEDALHAMAMI/RafeeqAI.git
-cd RafeeqAI
+git clone https://github.com/AHMEDALHAMAMI/BasirhAI.git
+cd BasirhAI
 ```
 
 ### 2. Configure MySQL
